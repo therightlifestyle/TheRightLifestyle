@@ -1,0 +1,15 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+# Python
+__pycache__/
+*.pyc
+.venv/
+# Local / secrets — never commit
+.env
+*.local
+*.zip

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://therightlifestyle.github.io/TheRightLifestyle/sitemap.xml
