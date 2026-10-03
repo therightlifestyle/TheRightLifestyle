@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">TRL — Get your time back from repetitive work</title>
+  <desc id="desc">Founder-led practical business systems for WhatsApp enquiries, orders, bookings and follow-ups in Pakistan.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#153e2b"/><stop offset="1" stop-color="#091d14"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#c5e1c5"/><stop offset="1" stop-color="#7cb38a"/></linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#102d20"/>
+  <circle cx="1150" cy="-35" r="310" fill="#3e7853" opacity=".12"/>
+  <circle cx="83" cy="620" r="250" fill="#5c9168" opacity=".08"/>
+  <path d="M600 70v490" stroke="#b5d5bd" stroke-opacity=".13"/>
+
+  <rect x="76" y="72" width="46" height="46" rx="13" fill="#f2f6ef"/>
+  <path d="M88 86h22" stroke="#1d6044" stroke-width="2" stroke-linecap="round"/>
+  <text x="99" y="107" fill="#123b2a" font-family="DejaVu Sans" font-size="15" font-weight="700" letter-spacing=".25" text-anchor="middle">TRL</text>
+  <text x="138" y="91" fill="#f1f5ef" font-family="DejaVu Sans" font-size="17" font-weight="700" letter-spacing=".2">THE RIGHT LIFESTYLE</text>
+  <text x="138" y="113" fill="#afc6b4" font-family="DejaVu Sans" font-size="12" letter-spacing=".7">FOUNDER-LED SYSTEMS STUDIO</text>
+
+  <rect x="78" y="180" width="340" height="30" rx="15" fill="#d8eadb" fill-opacity=".1" stroke="#b8d6be" stroke-opacity=".28"/>
+  <circle cx="96" cy="195" r="4" fill="#9cccaa"/>
+  <text x="110" y="199" fill="#c5dfc9" font-family="DejaVu Sans" font-size="12" font-weight="700" letter-spacing="1.15">BUSINESS SYSTEMS · PAKISTAN</text>
+
+  <text x="78" y="288" fill="#f5f7f1" font-family="DejaVu Sans" font-size="42" font-weight="700">Get your time back</text>
+  <text x="78" y="340" fill="#b8dabc" font-family="DejaVu Sans" font-size="42" font-weight="700">from repetitive work.</text>
+  <text x="80" y="402" fill="#d3dfd4" font-family="DejaVu Sans" font-size="19">Practical systems for WhatsApp enquiries, orders,</text>
+  <text x="80" y="430" fill="#d3dfd4" font-family="DejaVu Sans" font-size="19">bookings and follow-ups—built around your business.</text>
+  <path d="M80 503h80" stroke="#8ebd97" stroke-width="3" stroke-linecap="round"/>
+  <text x="80" y="542" fill="#adc2b1" font-family="DejaVu Sans" font-size="14">Online across Pakistan · Rawalpindi / Islamabad in person</text>
+
+  <rect x="652" y="99" width="470" height="432" rx="23" fill="#f4f7f2" fill-opacity=".055" stroke="#d6ead9" stroke-opacity=".17"/>
+  <path d="M676 100h228" stroke="#8ebd97" stroke-width="3" stroke-linecap="round"/>
+  <text x="682" y="143" fill="#c0dfc5" font-family="DejaVu Sans" font-size="12" font-weight="700" letter-spacing="1.35">WORKFLOW EXAMPLE</text>
+  <rect x="963" y="124" width="132" height="27" rx="13.5" fill="#cce3cf" fill-opacity=".1" stroke="#cce3cf" stroke-opacity=".25"/>
+  <text x="1029" y="142" fill="#d0e4d3" font-family="DejaVu Sans" font-size="10" font-weight="700" text-anchor="middle">EXAMPLE ONLY</text>
+  <text x="682" y="188" fill="#f5f7f1" font-family="DejaVu Sans" font-size="23" font-weight="700">A clearer next step.</text>
+
+  <rect x="682" y="214" width="410" height="72" rx="12" fill="#edf4ee" fill-opacity=".065" stroke="#d7e9d9" stroke-opacity=".14"/>
+  <circle cx="713" cy="250" r="17" fill="#c2dfc7" fill-opacity=".11" stroke="#aad3b2" stroke-opacity=".42"/>
+  <text x="713" y="254" fill="#d1e7d4" font-family="DejaVu Sans" font-size="11" font-weight="700" text-anchor="middle">01</text>
+  <text x="744" y="245" fill="#f2f6f1" font-family="DejaVu Sans" font-size="15" font-weight="700">Enquiry arrives</text>
+  <text x="744" y="266" fill="#b7c9b9" font-family="DejaVu Sans" font-size="12">WhatsApp · order or question</text>
+  <text x="1068" y="254" fill="#a5d2ad" font-family="DejaVu Sans" font-size="10" font-weight="700" text-anchor="end" letter-spacing=".8">CAPTURE</text>
+
+  <path d="M713 287v18" stroke="#a9d3b1" stroke-opacity=".65"/>
+  <rect x="682" y="305" width="410" height="72" rx="12" fill="#edf4ee" fill-opacity=".065" stroke="#d7e9d9" stroke-opacity=".14"/>
+  <circle cx="713" cy="341" r="17" fill="#c2dfc7" fill-opacity=".11" stroke="#aad3b2" stroke-opacity=".42"/>
+  <text x="713" y="345" fill="#d1e7d4" font-family="DejaVu Sans" font-size="11" font-weight="700" text-anchor="middle">02</text>
+  <text x="744" y="336" fill="#f2f6f1" font-family="DejaVu Sans" font-size="15" font-weight="700">Details are organised</text>
+  <text x="744" y="357" fill="#b7c9b9" font-family="DejaVu Sans" font-size="12">Approved reply · order or lead log</text>
+  <text x="1068" y="345" fill="#a5d2ad" font-family="DejaVu Sans" font-size="10" font-weight="700" text-anchor="end" letter-spacing=".8">SYSTEM</text>
+
+  <path d="M713 378v18" stroke="#a9d3b1" stroke-opacity=".65"/>
+  <rect x="682" y="396" width="410" height="72" rx="12" fill="#edf4ee" fill-opacity=".065" stroke="#d7e9d9" stroke-opacity=".14"/>
+  <circle cx="713" cy="432" r="17" fill="#c2dfc7" fill-opacity=".11" stroke="#aad3b2" stroke-opacity=".42"/>
+  <text x="713" y="436" fill="#d1e7d4" font-family="DejaVu Sans" font-size="11" font-weight="700" text-anchor="middle">03</text>
+  <text x="744" y="427" fill="#f2f6f1" font-family="DejaVu Sans" font-size="15" font-weight="700">Owner gets a hand-off</text>
+  <text x="744" y="448" fill="#b7c9b9" font-family="DejaVu Sans" font-size="12">Exceptions stay with a person</text>
+  <text x="1068" y="436" fill="#a5d2ad" font-family="DejaVu Sans" font-size="10" font-weight="700" text-anchor="end" letter-spacing=".8">HUMAN</text>
+
+  <text x="682" y="501" fill="#aebfb1" font-family="DejaVu Sans" font-size="11">Tools are selected after the audit. No client data shown.</text>
+</svg>

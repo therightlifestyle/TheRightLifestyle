@@ -13,3 +13,7 @@ __pycache__/
 .env
 *.local
 *.zip
+
+# Keep real enquiries, client case notes, and payment data out of this public repo
+/private-data/
+/lead-tracker-private.csv

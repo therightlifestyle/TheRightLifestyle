@@ -1,30 +1,61 @@
-/* TRL v5 — nav, reveal, WhatsApp enquiry builder. No trackers. */
-(function(){
-  var WA = "923190091457";
-  var nav = document.querySelector(".nav"), burger = document.querySelector(".burger");
-  if (burger) burger.addEventListener("click", function(){
-    var o = nav.classList.toggle("open"); burger.setAttribute("aria-expanded", o);
-  });
-  document.querySelectorAll(".menu a").forEach(function(a){a.addEventListener("click",function(){nav.classList.remove("open");burger&&burger.setAttribute("aria-expanded","false")})});
-  var onS = function(){ nav && nav.classList.toggle("scrolled", window.scrollY > 8); };
-  onS(); window.addEventListener("scroll", onS, {passive:true});
+/* TRL site interactions: accessible navigation and the WhatsApp enquiry form. */
+(function () {
+  var phone = "923190091457";
+  var menu = document.getElementById("menu");
+  var burger = document.querySelector(".burger");
+  var header = document.querySelector(".nav");
 
-  var els = document.querySelectorAll(".rv");
-  if ("IntersectionObserver" in window){
-    var io = new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){e.target.classList.add("in");io.unobserve(e.target)}})},{rootMargin:"0px 0px -8% 0px"});
-    els.forEach(function(el){io.observe(el)});
-  } else els.forEach(function(el){el.classList.add("in")});
+  function closeMenu() {
+    if (!menu || !burger) return;
+    menu.classList.remove("is-open");
+    burger.setAttribute("aria-expanded", "false");
+    burger.setAttribute("aria-label", "Open menu");
+  }
 
-  var y = document.getElementById("yr"); if (y) y.textContent = new Date().getFullYear();
+  if (menu && burger) {
+    burger.addEventListener("click", function () {
+      var open = burger.getAttribute("aria-expanded") !== "true";
+      menu.classList.toggle("is-open", open);
+      burger.setAttribute("aria-expanded", String(open));
+      burger.setAttribute("aria-label", open ? "Close menu" : "Open menu");
+      if (open) {
+        var firstLink = menu.querySelector("a");
+        if (firstLink) firstLink.focus();
+      }
+    });
 
-  var f = document.getElementById("waform");
-  if (f) f.addEventListener("submit", function(ev){
-    ev.preventDefault();
-    var d = new FormData(f), g = function(k){return (d.get(k)||"").toString().trim()};
-    var msg = "Assalam o Alaikum Rashid, I found TRL on the website.\n\n" +
-      "Name: " + g("name") + "\nBusiness: " + g("business") + "\nType: " + g("type") +
-      "\nInterested in: " + g("interest") + (g("link") ? "\nLink/page: " + g("link") : "") +
-      "\n\nWhat takes most of my time:\n" + g("pain");
-    window.open("https://wa.me/" + WA + "?text=" + encodeURIComponent(msg), "_blank", "noopener");
+    menu.addEventListener("click", function (event) {
+      if (event.target.closest("a")) closeMenu();
+    });
+
+    document.addEventListener("click", function (event) {
+      if (burger.getAttribute("aria-expanded") === "true" && header && !header.contains(event.target)) closeMenu();
+    });
+
+    document.addEventListener("keydown", function (event) {
+      if (event.key === "Escape" && burger.getAttribute("aria-expanded") === "true") {
+        closeMenu();
+        burger.focus();
+      }
+    });
+
+    window.addEventListener("resize", function () {
+      if (window.innerWidth > 900) closeMenu();
+    }, { passive: true });
+  }
+
+  var year = document.getElementById("yr");
+  if (year) year.textContent = new Date().getFullYear();
+
+  var form = document.getElementById("waform");
+  if (form) form.addEventListener("submit", function (event) {
+    event.preventDefault();
+    var data = new FormData(form);
+    var value = function (key) { return (data.get(key) || "").toString().trim(); };
+    var message = "Assalam o Alaikum Rashid, I found TRL on the website.\n\n" +
+      "Name: " + value("name") + "\nBusiness: " + value("business") + "\nType: " + value("type") +
+      "\nInterested in: " + value("interest") + (value("link") ? "\nLink/page: " + value("link") : "") +
+      "\n\nWhat takes most of my time:\n" + value("pain");
+    window.open("https://wa.me/" + phone + "?text=" + encodeURIComponent(message), "_blank", "noopener,noreferrer");
   });
 })();
