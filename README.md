@@ -2,9 +2,7 @@
   <img src="trl-profile-banner.gif" alt="Animated TRL banner with a neon typewriter line and example workflow." width="100%">
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=67F59B&center=true&vCenter=true&width=800&height=45&lines=Founder+%40+TRL;Business+systems+%26+automation;Helping+owners+get+time+back" alt="Animated typewriter: Founder at TRL; business systems and automation; helping owners get time back.">
-</p>
+<p align="center"><strong>Founder-led business systems &amp; automation · Rawalpindi, Pakistan</strong></p>
 
 <p align="center">
   <a href="https://therightlifestyle.github.io/TheRightLifestyle/">🌐 WEBSITE</a>
@@ -17,7 +15,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=therightlifestyle&amp;label=TRL+VIEWS&amp;style=for-the-badge&amp;color=36DB8B" alt="TRL profile views">
   <img src="https://img.shields.io/github/followers/therightlifestyle?style=for-the-badge&amp;color=15c77a&amp;label=FOLLOWERS&amp;logo=github&amp;logoColor=white" alt="GitHub followers">
   <img src="https://img.shields.io/github/stars/therightlifestyle/TheRightLifestyle?style=for-the-badge&amp;color=79e879&amp;label=TRL+PROJECT+STARS&amp;logo=github&amp;logoColor=white" alt="Stars on the TRL project">
 </p>
