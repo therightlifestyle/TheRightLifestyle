@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="620" viewBox="0 0 1440 620" role="img" aria-labelledby="title desc">
+  <title id="title">TRL — Get your time back</title>
+  <desc id="desc">A premium dark-green visual for The Right Lifestyle, a founder-led business systems studio in Pakistan. The right-side panel illustrates a WhatsApp-to-workflow-to-owner automation example.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#06120d"/>
+      <stop offset="0.55" stop-color="#071711"/>
+      <stop offset="1" stop-color="#06100e"/>
+    </linearGradient>
+    <linearGradient id="logo" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#a2ff68"/>
+      <stop offset="0.55" stop-color="#32e38c"/>
+      <stop offset="1" stop-color="#22bfa0"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#a3ff68"/>
+      <stop offset="1" stop-color="#24d99c"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#21e86d" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#21e86d" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#10251a"/>
+      <stop offset="1" stop-color="#09140f"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1440" height="620" rx="32" fill="url(#bg)"/>
+  <ellipse cx="280" cy="300" rx="520" ry="400" fill="url(#glow)"/>
+  <ellipse cx="1195" cy="350" rx="430" ry="365" fill="url(#glow)" opacity="0.72"/>
+
+  <g stroke="#a7f8c0" stroke-opacity="0.055" stroke-width="1">
+    <path d="M60 0v620M140 0v620M220 0v620M300 0v620M380 0v620M460 0v620M540 0v620M620 0v620M700 0v620M780 0v620M860 0v620M940 0v620M1020 0v620M1100 0v620M1180 0v620M1260 0v620M1340 0v620"/>
+    <path d="M0 60h1440M0 140h1440M0 220h1440M0 300h1440M0 380h1440M0 460h1440M0 540h1440"/>
+  </g>
+  <rect x="14" y="14" width="1412" height="592" rx="27" fill="none" stroke="#8bf1b4" stroke-opacity="0.23"/>
+
+  <g>
+    <rect x="66" y="56" width="62" height="62" rx="19" fill="url(#logo)"/>
+    <path d="M81 73h31a7 7 0 0 1 7 7v20a7 7 0 0 1-7 7H81a7 7 0 0 1-7-7V80a7 7 0 0 1 7-7Z" fill="#07150e" opacity="0.84"/>
+    <text x="96.5" y="96" text-anchor="middle" fill="#b6ff86" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="900" letter-spacing="0.5">TRL</text>
+    <text x="146" y="82" fill="#f3fff6" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="800" letter-spacing="1.7">THE RIGHT LIFESTYLE</text>
+    <text x="146" y="106" fill="#89a795" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2.2">FOUNDER-LED SYSTEMS STUDIO</text>
+  </g>
+
+  <g>
+    <rect x="1085" y="68" width="286" height="34" rx="17" fill="#0b1d14" stroke="#367e50" stroke-opacity="0.7"/>
+    <circle cx="1105" cy="85" r="4" fill="#76ff8c"/>
+    <text x="1120" y="90" fill="#b4d5c0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.25">RAWALPINDI · PAKISTAN</text>
+  </g>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <rect x="70" y="173" width="4" height="19" rx="2" fill="url(#line)"/>
+    <text x="89" y="188" fill="#81eba1" font-size="13" font-weight="800" letter-spacing="2.4">PRACTICAL BUSINESS AUTOMATION</text>
+
+    <text x="67" y="271" fill="#f4fff7" font-size="57" font-weight="800">Get your time back.</text>
+    <text x="70" y="331" fill="#b6f3c8" font-size="43" font-weight="700">From repetitive work.</text>
+
+    <text x="72" y="379" fill="#c1d2c6" font-size="19" font-weight="500">Systems for messages, orders, bookings and follow-ups.</text>
+    <text x="72" y="408" fill="#8ea798" font-size="17" font-weight="500">Designed around your real workflow — not another tool subscription.</text>
+
+    <g>
+      <rect x="70" y="448" width="222" height="45" rx="22.5" fill="#143923" stroke="#5ddd82" stroke-opacity="0.85"/>
+      <circle cx="91" cy="470.5" r="4" fill="#a4ff73"/>
+      <text x="105" y="475" fill="#ddffe4" font-size="13" font-weight="800" letter-spacing="0.3">AUDIT · PKR 1,500</text>
+
+      <rect x="305" y="448" width="168" height="45" rx="22.5" fill="#0c1b14" stroke="#284b35"/>
+      <text x="389" y="475" text-anchor="middle" fill="#c7e7d0" font-size="12" font-weight="800" letter-spacing="0.7">DELIVERED IN 48 HRS</text>
+
+      <rect x="486" y="448" width="144" height="45" rx="22.5" fill="#0c1b14" stroke="#284b35"/>
+      <text x="558" y="475" text-anchor="middle" fill="#c7e7d0" font-size="12" font-weight="800" letter-spacing="0.8">YOU OWN IT</text>
+    </g>
+
+    <text x="72" y="544" fill="#80a590" font-size="14" font-weight="800" letter-spacing="2.15">KAAM AAP KA. SYSTEM HAMARA.</text>
+  </g>
+
+  <g>
+    <rect x="755" y="145" width="620" height="392" rx="25" fill="#06100c" fill-opacity="0.78" stroke="#2e6340" stroke-width="1.5"/>
+    <rect x="756" y="146" width="618" height="58" rx="24" fill="#0e1e15"/>
+    <path d="M756 180v24h618v-24" fill="#0e1e15"/>
+    <circle cx="783" cy="175" r="5" fill="#ff626b"/>
+    <circle cx="801" cy="175" r="5" fill="#f6c34e"/>
+    <circle cx="819" cy="175" r="5" fill="#50d88a"/>
+    <text x="841" y="180" fill="#e6f7eb" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="800" letter-spacing="1.4">TRL / WORKFLOW MAP</text>
+    <rect x="1214" y="160" width="137" height="29" rx="14.5" fill="#10291a" stroke="#315e3b"/>
+    <text x="1282.5" y="179" text-anchor="middle" fill="#98d9a6" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="800" letter-spacing="1.1">EXAMPLE FLOW</text>
+
+    <text x="789" y="230" fill="#789783" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="800" letter-spacing="1.8">FROM INCOMING WORK TO CLEAR NEXT ACTION</text>
+
+    <g font-family="Inter, Segoe UI, Arial, sans-serif">
+      <rect x="787" y="247" width="554" height="65" rx="14" fill="url(#card)" stroke="#2c5a3b"/>
+      <circle cx="814" cy="279.5" r="14" fill="#183b25" stroke="#4da467"/>
+      <text x="814" y="284" text-anchor="middle" fill="#b8ff8e" font-size="11" font-weight="900">01</text>
+      <text x="841" y="274" fill="#dff5e4" font-size="14" font-weight="800">CUSTOMER MESSAGE</text>
+      <text x="841" y="294" fill="#84a590" font-size="12">WhatsApp · enquiry or order</text>
+      <rect x="1221" y="264" width="98" height="29" rx="14.5" fill="#10291a"/>
+      <text x="1270" y="283" text-anchor="middle" fill="#a1dfa9" font-size="10" font-weight="800" letter-spacing="0.8">CAPTURE</text>
+
+      <path d="M1064 314v14m-6-6 6 6 6-6" fill="none" stroke="#5fe68c" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+
+      <rect x="787" y="331" width="554" height="65" rx="14" fill="url(#card)" stroke="#2c5a3b"/>
+      <circle cx="814" cy="363.5" r="14" fill="#183b25" stroke="#4da467"/>
+      <text x="814" y="368" text-anchor="middle" fill="#b8ff8e" font-size="11" font-weight="900">02</text>
+      <text x="841" y="358" fill="#dff5e4" font-size="14" font-weight="800">ROUTE, CHECK &amp; LOG</text>
+      <text x="841" y="378" fill="#84a590" font-size="12">n8n · Sheets · AI where useful</text>
+      <rect x="1221" y="348" width="98" height="29" rx="14.5" fill="#10291a"/>
+      <text x="1270" y="367" text-anchor="middle" fill="#a1dfa9" font-size="10" font-weight="800" letter-spacing="0.8">PROCESS</text>
+
+      <path d="M1064 398v14m-6-6 6 6 6-6" fill="none" stroke="#5fe68c" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+
+      <rect x="787" y="415" width="554" height="65" rx="14" fill="url(#card)" stroke="#2c5a3b"/>
+      <circle cx="814" cy="447.5" r="14" fill="#183b25" stroke="#4da467"/>
+      <text x="814" y="452" text-anchor="middle" fill="#b8ff8e" font-size="11" font-weight="900">03</text>
+      <text x="841" y="442" fill="#dff5e4" font-size="14" font-weight="800">ACTION + HUMAN HAND-OFF</text>
+      <text x="841" y="462" fill="#84a590" font-size="12">Record updated · owner notified</text>
+      <rect x="1221" y="432" width="98" height="29" rx="14.5" fill="#10291a"/>
+      <text x="1270" y="451" text-anchor="middle" fill="#a1dfa9" font-size="10" font-weight="800" letter-spacing="0.8">HAND OFF</text>
+    </g>
+
+    <path d="M787 499h554" stroke="#1b3826"/>
+    <circle cx="797" cy="517" r="3" fill="#77ed91"/>
+    <text x="808" y="521" fill="#829d8a" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1">ILLUSTRATIVE · NOT LIVE CLIENT DATA</text>
+  </g>
+
+  <path d="M70 576h1300" stroke="#254231" stroke-opacity="0.8"/>
+  <text x="70" y="596" fill="#72917d" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="0.8">THERIGHTLIFESTYLE.GITHUB.IO / THE RIGHT LIFESTYLE</text>
+  <text x="1370" y="596" text-anchor="end" fill="#72917d" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="0.8">PAKISTAN-WIDE · FOUNDER-LED</text>
+</svg>

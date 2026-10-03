@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="282" viewBox="0 0 1200 282" role="img" aria-labelledby="title desc">
+  <title id="title">A simple TRL automation workflow</title>
+  <desc id="desc">An illustrative flow from customer enquiry, through capture and automation, to a logged action and human hand-off.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07140e"/>
+      <stop offset="1" stop-color="#091b12"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#9bff70"/>
+      <stop offset="1" stop-color="#20d68e"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="282" rx="22" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="280" rx="21" fill="none" stroke="#275139"/>
+
+  <text x="34" y="42" fill="#e8f8ec" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="800" letter-spacing="1.9">FROM REPEATED TASK TO REPEATABLE SYSTEM</text>
+  <text x="34" y="65" fill="#87a591" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">A visual example of the kind of process TRL can map and improve.</text>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <rect x="34" y="91" width="241" height="120" rx="15" fill="#0d2116" stroke="#3b794c"/>
+    <circle cx="62" cy="120" r="13" fill="#193c25"/>
+    <text x="62" y="124" text-anchor="middle" fill="#a7ff7a" font-size="10" font-weight="900">01</text>
+    <text x="86" y="124" fill="#d9f3df" font-size="12" font-weight="800" letter-spacing="1.1">CUSTOMER</text>
+    <text x="55" y="163" fill="#f0fff3" font-size="18" font-weight="750">Message or order</text>
+    <text x="55" y="188" fill="#89a795" font-size="12">A real question arrives.</text>
+
+    <rect x="340" y="91" width="241" height="120" rx="15" fill="#0d2116" stroke="#3b794c"/>
+    <circle cx="368" cy="120" r="13" fill="#193c25"/>
+    <text x="368" y="124" text-anchor="middle" fill="#a7ff7a" font-size="10" font-weight="900">02</text>
+    <text x="392" y="124" fill="#d9f3df" font-size="12" font-weight="800" letter-spacing="1.1">CAPTURE</text>
+    <text x="361" y="163" fill="#f0fff3" font-size="18" font-weight="750">WhatsApp + form</text>
+    <text x="361" y="188" fill="#89a795" font-size="12">The right details are logged.</text>
+
+    <rect x="646" y="91" width="241" height="120" rx="15" fill="#0d2116" stroke="#3b794c"/>
+    <circle cx="674" cy="120" r="13" fill="#193c25"/>
+    <text x="674" y="124" text-anchor="middle" fill="#a7ff7a" font-size="10" font-weight="900">03</text>
+    <text x="698" y="124" fill="#d9f3df" font-size="12" font-weight="800" letter-spacing="1.1">AUTOMATE</text>
+    <text x="667" y="163" fill="#f0fff3" font-size="18" font-weight="750">Rules + tools</text>
+    <text x="667" y="188" fill="#89a795" font-size="12">n8n · Google Sheets · AI as needed</text>
+
+    <rect x="952" y="91" width="214" height="120" rx="15" fill="#0d2116" stroke="#3b794c"/>
+    <circle cx="980" cy="120" r="13" fill="#193c25"/>
+    <text x="980" y="124" text-anchor="middle" fill="#a7ff7a" font-size="10" font-weight="900">04</text>
+    <text x="1004" y="124" fill="#d9f3df" font-size="12" font-weight="800" letter-spacing="1.1">HAND OFF</text>
+    <text x="973" y="163" fill="#f0fff3" font-size="18" font-weight="750">Human hand-off</text>
+    <text x="973" y="188" fill="#89a795" font-size="12">Record saved · owner notified</text>
+  </g>
+
+  <g fill="none" stroke="url(#accent)" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M287 151h40m-8-8 8 8-8 8"/>
+    <path d="M593 151h40m-8-8 8 8-8 8"/>
+    <path d="M899 151h40m-8-8 8 8-8 8"/>
+  </g>
+
+  <path d="M34 235h1132" stroke="#234531"/>
+  <circle cx="43" cy="256" r="3.5" fill="#8dff6c"/>
+  <text x="56" y="260" fill="#91aa99" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="650" letter-spacing="0.45">EXAMPLE FLOW · NOT A LIVE CLIENT SYSTEM</text>
+  <text x="1166" y="260" text-anchor="end" fill="#6f907b" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="650" letter-spacing="0.5">SYSTEMS FIRST. TOOLS SECOND.</text>
+</svg>
