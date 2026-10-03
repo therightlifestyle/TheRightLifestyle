@@ -1,158 +1,115 @@
-<h1 align="center">TRL — The Right Lifestyle</h1>
-
 <p align="center">
-  <strong>Founder-led business systems &amp; practical automation for online and local businesses across Pakistan.</strong><br>
-  <em>Kaam aap ka, system hamara.</em>
+  <img src="trl-profile-banner.gif" alt="Animated TRL banner: The Right Lifestyle, a founder-led systems studio in Pakistan." width="100%">
 </p>
 
 <p align="center">
-  <a href="https://therightlifestyle.github.io/TheRightLifestyle/">🌐 Official website</a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=67F59B&center=true&vCenter=true&width=800&height=45&lines=Founder+%40+TRL;Business+systems+%26+automation;Helping+owners+get+time+back" alt="Animated text: Founder at TRL; business systems and automation; helping owners get time back.">
+</p>
+
+<p align="center">
+  <a href="https://therightlifestyle.github.io/TheRightLifestyle/">🌐 WEBSITE</a>
   &nbsp;·&nbsp;
-  <a href="https://wa.me/923190091457">💬 Talk to the founder</a>
+  <a href="https://wa.me/923190091457">💬 WHATSAPP</a>
   &nbsp;·&nbsp;
-  <a href="https://therightlifestyle.github.io/TheRightLifestyle/pricing.html">📋 Services &amp; pricing</a>
+  <a href="mailto:officialtrlservice@gmail.com">✉️ EMAIL</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/therightlifestyle/TheRightLifestyle">💻 FEATURED PROJECT</a>
 </p>
 
 <p align="center">
-  <img src="trl-cover.svg" alt="TRL — Get your time back from repetitive work. A founder-led business systems studio in Pakistan." width="100%">
-</p>
-
-<p align="center">
-  <a href="#what-trl-does">What we do</a> &nbsp;·&nbsp;
-  <a href="#who-we-work-with">Who we help</a> &nbsp;·&nbsp;
-  <a href="#how-an-engagement-works">How it works</a> &nbsp;·&nbsp;
-  <a href="#meet-the-founder">The founder</a> &nbsp;·&nbsp;
-  <a href="#about-this-repository">Website source</a> &nbsp;·&nbsp;
-  <a href="#contact">Contact</a>
+  <img src="https://komarev.com/ghpvc/?username=therightlifestyle&style=for-the-badge&color=18b866&label=PROFILE+VIEWS" alt="Profile views">
+  <img src="https://img.shields.io/github/followers/therightlifestyle?style=for-the-badge&color=15c77a&label=FOLLOWERS&logo=github&logoColor=white" alt="GitHub followers">
+  <img src="https://img.shields.io/github/stars/therightlifestyle/TheRightLifestyle?style=for-the-badge&color=79e879&label=TRL+PROJECT+STARS&logo=github&logoColor=white" alt="Stars on the TRL project">
 </p>
 
 ---
 
-## What TRL does
+## ⚡ `whoami`
 
-**TRL — The Right Lifestyle** is a founder-led systems studio based in Rawalpindi, Pakistan. We help business owners spend less time repeating admin by mapping the way their business actually runs, then building practical systems for the work worth automating.
-
-Think WhatsApp messages, orders, bookings, follow-ups, invoices and reports — connected into a workflow your team can understand and own. We work with online and local businesses, remotely across Pakistan and in person in Rawalpindi and Islamabad.
-
-| Capture & convert | Run day-to-day | Stay in control |
-|---|---|---|
-| WhatsApp Business replies, enquiry capture, lead follow-up and English / Roman Urdu FAQ assistance | Order and booking flows, COD confirmation, reminders, invoices, receipts and payment follow-up | Simple Google Sheets systems, lead lists, reporting dashboards and weekly summaries |
-
-**Practical toolkit:** WhatsApp Business · Google Sheets · n8n · AI where it genuinely helps. We start with the workflow, not a pitch for more software.
-
-## A simple system, built around your business
-
-<p align="center">
-  <img src="trl-workflow.svg" alt="Illustrative TRL workflow: a customer message is captured, processed through connected tools, then logged and handed to a person when needed." width="100%">
-</p>
-
-<p align="center"><sub>Illustrative workflow only — each system is mapped to the client's real process. AI is optional; human hand-off stays available.</sub></p>
-
-## Who we work with
-
-| Online &amp; digital businesses | Local &amp; physical businesses |
-|---|---|
-| E-commerce and Daraz sellers · coaches and academies · agencies and freelancers · creators and digital businesses | Shops and boutiques · clinics, salons and gyms · restaurants and home kitchens · schools, real estate and local services |
-
-## How an engagement works
-
-1. **Start with a conversation.** Tell us what the business does and what takes up your time. English or Roman Urdu — whichever feels natural.
-2. **Map the work.** The Systems Audit identifies how work flows today, where time or leads are being lost, and what is worth fixing first.
-3. **Agree on a written scope.** If a build makes sense, you get the exact deliverable, tools, timeline and fixed price before work begins.
-4. **Build, test and hand over.** The system is tested on real scenarios, documented, and handed over with your accounts and access in your control.
-
-### Published founding offers
-
-| Step | Founding price | What you get |
-|---|---:|---|
-| **Systems Audit** | **PKR 1,500** | Systems map PDF, opportunities ranked by impact, and a recorded 30-minute walkthrough call. Delivered within 48 hours of intake. |
-| **System Build** | **PKR 15,000** | One agreed system, built around your real workflow, tested, documented and handed over, with 14 days of fixes after launch. |
-| **Care Plan** *(coming soon)* | **PKR 3,000–5,000 / month** | Optional monitoring, fixes and small changes for build clients. |
-
-<blockquote>
-  <strong>Founding pricing:</strong> published prices apply to the first 50 clients and may change when those places are filled. The full Systems Audit fee is credited to a build started within 14 days. Check the <a href="https://therightlifestyle.github.io/TheRightLifestyle/pricing.html">live pricing page</a> for current details.
-</blockquote>
-
-## The principles behind the work
-
-| Systems before tools | Clear scope, honest pricing |
-|---|---|
-| Understand the process first. Automate only the parts that are useful to automate. | Work, timing and price are agreed in writing before a build starts. |
-| **You own the system** | **People stay in the loop** |
-| Your accounts, data and documentation stay yours. No lock-in. | AI can handle routine questions; sensitive or uncertain cases go to a person. No spam or unsolicited bulk messaging. |
-
-## Meet the founder
-
-**Rashid Muhammad Amir** is the founder of TRL and the person clients deal with from the first conversation through handover.
-
-TRL is built around a straightforward idea: a business should not depend on its owner personally pushing every repeated task. The aim is to give owners more room for growth, family and life — with simple systems, transparent pricing and no made-up proof points.
-
-<a href="https://therightlifestyle.github.io/TheRightLifestyle/about.html">More about Rashid &amp; the TRL approach →</a>
-
-## About this repository
-
-This repository contains the source for the [official TRL website](https://therightlifestyle.github.io/TheRightLifestyle/), published with GitHub Pages.
-
-- **Lightweight:** hand-written HTML, CSS and JavaScript; no frontend framework or runtime dependency.
-- **Content-led:** `tools/build.py` is the source of truth for the site copy, prices and contact details; the HTML pages are generated from it.
-- **Built for real devices:** responsive layouts, accessible navigation and reduced-motion support.
-- **Privacy-minded:** no cookies, database or tracking scripts on the site; fonts are self-hosted.
-- **Search-ready:** includes page metadata, Open Graph, structured data, sitemap and robots file.
-
-### Project layout
-
-```text
-.
-├── README.md                 # Company, founder and project overview
-├── trl-cover.svg              # README hero artwork
-├── trl-workflow.svg           # README workflow artwork
-├── tools/build.py             # Source content and static-page generator
-├── index.html                 # Generated website pages
-├── services.html
-├── pricing.html
-├── about.html
-├── assets/
-│   ├── css/style.css
-│   ├── js/main.js
-│   ├── fonts/                 # Self-hosted fonts
-│   └── img/                   # Site logo and social images
-├── sitemap.xml
-├── robots.txt
-└── .nojekyll
+```js
+const rashid = {
+  name: "Rashid Muhammad Amir",
+  role: "Founder of TRL — The Right Lifestyle",
+  based: "Rawalpindi, Pakistan",
+  building: "Business systems & practical automation",
+  focus: ["WhatsApp", "Google Sheets", "n8n", "AI when useful"],
+  mission: "Give business owners time back from repetitive work."
+};
 ```
 
-### Run the site locally
+I started **TRL** to help owners spend less of the day answering the same messages, copying the same orders and chasing the same follow-ups. We map the real work first, then build a simple system for the part that is worth improving.
 
-Requires Python 3.8 or newer; no package installation is needed.
+**Kaam aap ka, system hamara.**
 
-```bash
-# Regenerate the website after editing tools/build.py
-python3 tools/build.py
+## 🧩 What TRL builds
 
-# Start a local preview
-python3 -m http.server 8080
-```
-
-Then open `http://localhost:8080`. Edit `tools/build.py` rather than generated HTML files, or the next build will overwrite those changes. The live site is deployed from the `main` branch with GitHub Pages.
-
-## Contact
-
-| | |
-|---|---|
-| **Website** | [therightlifestyle.github.io/TheRightLifestyle](https://therightlifestyle.github.io/TheRightLifestyle/) |
-| **WhatsApp** | [+92 319 0091457](https://wa.me/923190091457) |
-| **Email** | [officialtrlservice@gmail.com](mailto:officialtrlservice@gmail.com) |
-| **Instagram** | [@the.right.lifestyle](https://www.instagram.com/the.right.lifestyle/) |
-| **TikTok** | [@the.right.lifestyle](https://www.tiktok.com/@the.right.lifestyle) |
-| **Based in / serving** | Rawalpindi, Pakistan · Online across Pakistan · In person in Rawalpindi / Islamabad |
-| **Reply hours** | Every day, 10:00–22:00 PKT |
+<table>
+  <tr>
+    <td width="33%" valign="top"><strong>💬 WhatsApp & enquiries</strong><br><br>Helpful first replies, order capture, FAQ assistance in English or Roman Urdu, and a clear hand-off to a person.</td>
+    <td width="33%" valign="top"><strong>🔁 Orders & operations</strong><br><br>Order and booking flows, COD confirmation, reminders, lead follow-up and connected Google Sheets.</td>
+    <td width="34%" valign="top"><strong>📊 Admin & visibility</strong><br><br>Invoices, receipts, payment reminders, simple dashboards and useful summaries — without juggling five apps.</td>
+  </tr>
+</table>
 
 <p align="center">
-  <a href="https://wa.me/923190091457?text=Assalam%20o%20Alaikum%20Rashid%2C%20I%20found%20TRL%20online.%20I%27d%20like%20to%20talk%20about%20my%20business."><strong>Start a conversation on WhatsApp →</strong></a>
+  <img src="trl-workflow.svg" alt="Illustrative workflow: customer message, capture, connected automation, then a human hand-off." width="100%">
 </p>
 
-<p align="center"><sub>TRL is in its founding stage. No invented client counts, testimonials or savings claims — only work and results that can be substantiated.</sub></p>
+<p align="center"><sub>Every workflow is mapped to the business first. This diagram is illustrative, not live client data.</sub></p>
 
----
+## 🧰 TRL toolkit
 
-<p align="center"><sub>© 2026 <strong>TRL — The Right Lifestyle</strong> · Rashid Muhammad Amir · See <a href="LICENSE">LICENSE</a>.</sub></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/WhatsApp_Business-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Business">
+  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets">
+  <img src="https://img.shields.io/badge/n8n-111827?style=for-the-badge&logo=n8n&logoColor=EA4B71" alt="n8n">
+  <img src="https://img.shields.io/badge/AI-Systems%20with%20human%20handoff-183A27?style=for-the-badge" alt="AI with human hand-off">
+</p>
+
+<p align="center"><sub>The TRL website itself is built with hand-written HTML, CSS, JavaScript and a small Python page generator.</sub></p>
+
+## 🧭 How I work
+
+| 01 · Map | 02 · Prioritise | 03 · Build & test | 04 · Hand over |
+|---|---|---|---|
+| Understand how messages, orders and admin move today. | Find the best first fix — and what should stay manual. | Agree scope and price in writing; test the workflow on real scenarios. | You keep the accounts, access and documentation. No lock-in. |
+
+**Current published founding offer (first 50 clients):** Systems Audit **PKR 1,500**, delivered within 48 hours. The full audit fee is credited to a build started within 14 days. [See current pricing →](https://therightlifestyle.github.io/TheRightLifestyle/pricing.html)
+
+## ✨ Featured project
+
+<p align="center">
+  <a href="https://github.com/therightlifestyle/TheRightLifestyle">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=therightlifestyle&repo=TheRightLifestyle&theme=transparent&hide_border=true&bg_color=0B1110&title_color=67F59B&text_color=C7D4CB&icon_color=67F59B" alt="Pinned repository: TheRightLifestyle">
+  </a>
+</p>
+
+The source for the official TRL website: [therightlifestyle.github.io/TheRightLifestyle](https://therightlifestyle.github.io/TheRightLifestyle/).
+
+## 📊 GitHub pulse
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=therightlifestyle&show_icons=true&rank_icon=github&hide_border=true&theme=transparent&bg_color=0B1110&title_color=67F59B&text_color=C7D4CB&icon_color=67F59B" alt="Live GitHub account statistics">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=therightlifestyle&layout=compact&langs_count=6&hide_border=true&theme=transparent&bg_color=0B1110&title_color=67F59B&text_color=C7D4CB" alt="Languages in public repositories">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=therightlifestyle&bg_color=0B1110&color=C7D4CB&line=36DB8B&point=9BFF6B&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%">
+</p>
+
+<p align="center"><sub>GitHub cards are live embeds and may take a moment to load. They reflect public GitHub data; no stats or testimonials are made up.</sub></p>
+
+## 🤝 Beyond the code
+
+I believe automation should mean **less work to manage**, not one more complicated tool. TRL is founder-led, upfront about pricing, and built around systems clients own. We are early, so I share real work — never invented reviews, client counts or savings claims.
+
+## 📬 Let’s talk
+
+- **Website:** [The Right Lifestyle](https://therightlifestyle.github.io/TheRightLifestyle/)
+- **WhatsApp:** [+92 319 0091457](https://wa.me/923190091457)
+- **Email:** [officialtrlservice@gmail.com](mailto:officialtrlservice@gmail.com)
+- **Instagram:** [@the.right.lifestyle](https://www.instagram.com/the.right.lifestyle/)
+- **TikTok:** [@the.right.lifestyle](https://www.tiktok.com/@the.right.lifestyle)
+- **Based in:** Rawalpindi, Pakistan · serving businesses across Pakistan online
+
+<p align="center"><strong>Let’s make everyday business lighter. 🤝</strong><br><sub>© 2026 Rashid Muhammad Amir · TRL — The Right Lifestyle</sub></p>
